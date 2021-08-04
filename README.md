@@ -1,4 +1,5 @@
-# platzi-exchange
+# Omi-exchange
+First frontend project with vue.js 2 and Tailwind. Using the coincap API.
 
 ## Project setup
 ```
